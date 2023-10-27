@@ -1,4 +1,4 @@
-# SignalR and React.js Example App
+# DRY SignalR and React.js Example App
 
 This is an example application that demonstrates how to use SignalR with React.js in a DRY way.
 
